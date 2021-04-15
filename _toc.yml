@@ -2,6 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: intro
+- file: materiasAprobadas
+- file: materiasNoAprobadas
 - file: content
   sections:
     - file: markdown
